@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mgf:home|Door43 (mgf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mgf|d43-mgf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mgf/archive/master.zip|d43-mgf.zip]]
+
+**Recent Changes**
+{{changes>ns = mgf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mgf|Ethnologue data]]
+
